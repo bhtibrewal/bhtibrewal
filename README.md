@@ -29,11 +29,11 @@ My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur,
 
 <!--  -->
 ### Pinned Repos
-[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/portfolio)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e)](https://github.com/bhtibrewal/portfolio)
 
-[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/amazon-clone)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e)](https://github.com/bhtibrewal/amazon-clone)
 
-[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/Is_Your_Birthday_a_Palidrome)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e) ](https://github.com/bhtibrewal/Is_Your_Birthday_a_Palidrome)
 
 ## 🔗 &nbsp;**Connect with me**
 
