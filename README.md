@@ -3,9 +3,14 @@
 ![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png)
 
 # Hello Github👋
-My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,Rajasthan.
+My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.
 
-## 🔧 Langueages & Tools
+- Currently I'm working on some Reactjs Projects.
+- You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
+- 💬Feel free to reach out to me for some interesting talk.
+- 📫 You can also email me at [bhtibrewal@gmail.com]("")
+
+### 🔧 Langueages & Tools
 
 <p align='left'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
@@ -14,7 +19,7 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
 </p>
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <!--  -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
@@ -31,8 +36,9 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 
 ## 🔗 &nbsp;**Connect with me**
 
-![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/linkedin.svg)
-![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/twitter.svg)
+[![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/linkedin.svg)](https://www.linkedin.com/in/bhavika-tibrewal/)
+
+[![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/twitter.svg)](https://twitter.com/bhtibrewal)
 
 Thanks for visiting :heart: 
 
