@@ -31,7 +31,8 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 
 ## 🔗 &nbsp;**Connect with me**
 
-[![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/linkedin.svg)]()
-[![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/twitter.svg)]()
+![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/linkedin.svg)
+![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/twitter.svg)
+
 Thanks for visiting :heart: 
 
