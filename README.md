@@ -3,7 +3,7 @@
 ![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png)
 
 # Hello Github👋
-My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.I love learnig new technologies and 
+My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.I love learnig new technologies.
 
 - Currently I'm working on some Reactjs Projects.
 - You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
