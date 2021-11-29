@@ -17,28 +17,21 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 ## &#x1f4c8; GitHub Stats
 
 <!--  -->
-<a href="https://github.com/bhtibrewal/bhtibrewal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<!--  -->
-<a href="https://github.com/bhtibrewal/bhtibrewal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="" />
-</a>
-<!--  -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+<!--  -->
+### Pinned Repos
 [![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/portfolio)
 
-![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/amazon-clone)
 
-![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/Is_Your_Birthday_a_Palidrome)
 
-<!-- <a href="https://github.com/bhtibrewal/bhtibrewal">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/bhtibrewal/bhtibrewal">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/bhtibrewal/bhtibrewal">
-   <img align="center" src="" />
-</a> -->
+## 🔗 &nbsp;**Connect with me**
+
+[![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/linkedin.svg)]()
+[![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/twitter.svg)]()
+Thanks for visiting :heart: 
 
