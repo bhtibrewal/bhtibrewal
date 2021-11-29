@@ -1,6 +1,6 @@
 <!-- bhtibrewal is a special repository: its README.md will appear on your profile! -->
 
-![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/cover.png)
+![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png)
 
 # Hello Github👋
 My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,Rajasthan.
@@ -31,8 +31,8 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 
 ## 🔗 &nbsp;**Connect with me**
 
-![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/linkedin.svg)
-![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/twitter.svg)
+![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/linkedin.svg)
+![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/twitter.svg)
 
 Thanks for visiting :heart: 
 
