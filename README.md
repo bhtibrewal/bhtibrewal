@@ -25,7 +25,14 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="" />
 </a>
 <!--  -->
-<a href="https://github.com/bhtibrewal/bhtibrewal">
+
+![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+<!-- <a href="https://github.com/bhtibrewal/bhtibrewal">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/bhtibrewal/bhtibrewal">
@@ -33,8 +40,5 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 </a>
 <a href="https://github.com/bhtibrewal/bhtibrewal">
    <img align="center" src="" />
-</a>
+</a> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-![ Bhavika's Repos ](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
