@@ -3,12 +3,13 @@
 ![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png)
 
 # Hello Github👋
-My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.
+My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.I love learnig new technologies and 
 
 - Currently I'm working on some Reactjs Projects.
 - You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
+- When I'm not coding, I'm reading novels or sketching.
 - 💬Feel free to reach out to me for some interesting talk.
-- 📫 You can also email me at [bhtibrewal@gmail.com]("")
+- 📫 You can also email me at [bhtibrewal@gmail.com](https://github.com/bhtibrewal/bhtibrewal)
 
 ### 🔧 Langueages & Tools
 
@@ -37,7 +38,6 @@ My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur,
 ## 🔗 &nbsp;**Connect with me**
 
 [![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/linkedin.svg)](https://www.linkedin.com/in/bhavika-tibrewal/)
-
 [![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/twitter.svg)](https://twitter.com/bhtibrewal)
 
 Thanks for visiting :heart: 
