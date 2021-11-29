@@ -34,4 +34,7 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 <a href="https://github.com/bhtibrewal/bhtibrewal">
    <img align="center" src="" />
 </a>
-![Bhavika's Repos](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![ Bhavika's Repos ](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
