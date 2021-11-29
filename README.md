@@ -26,7 +26,7 @@ My name is Bhavika Tibrewal.Currently I'm pursing my BTech from LNMIIT, Jaipur,R
 </a>
 <!--  -->
 
-![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/bhtibrewal/portfolio)
 
 ![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
