@@ -8,10 +8,10 @@ My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur,
 - Currently I'm working on some Reactjs Projects.
 - You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
 - When I'm not coding, I'm reading novels or sketching.
-- 💬Feel free to reach out to me for some interesting talk.
+<!-- - 💬Feel free to reach out to me for some interesting talk. -->
 - 📫 You can also email me at [bhtibrewal@gmail.com](https://github.com/bhtibrewal/bhtibrewal)
 
-### 🔧 Langueages & Tools
+### 🔧 Languages & Tools
 
 <p align='left'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
