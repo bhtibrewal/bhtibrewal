@@ -5,7 +5,7 @@
 # Hello Github👋
 My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.I love learnig new technologies.
 
-- Currently I'm working on some Reactjs Projects.
+- Building Full Stack React Apps.
 - You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
 - When I'm not coding, I'm reading novels or sketching.
 <!-- - 💬Feel free to reach out to me for some interesting talk. -->
@@ -25,15 +25,15 @@ My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur,
 <!--  -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) -->
 
 <!--  -->
-### Pinned Repos
+<!-- ### Pinned Repos
 [![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e)](https://github.com/bhtibrewal/portfolio)
 
 [![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e)](https://github.com/bhtibrewal/amazon-clone)
 
-[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e) ](https://github.com/bhtibrewal/Is_Your_Birthday_a_Palidrome)
+[![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e) ](https://github.com/bhtibrewal/Is_Your_Birthday_a_Palidrome) -->
 
 ## 🔗 &nbsp;**Connect with me**
 
