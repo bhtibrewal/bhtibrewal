@@ -26,6 +26,8 @@ My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur,
 <!--  -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 
+![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&count_private=true&show_icons=true&theme=radical)
+
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) -->
 
 <!--  -->
