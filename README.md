@@ -1,25 +1,41 @@
 <!-- bhtibrewal is a special repository: its README.md will appear on your profile! -->
 
-![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png)
+<!-- ![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png) -->
 
 # Hello Github👋
-My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur, Rajasthan.I love learnig new technologies.
+My name is Bhavika Tibrewal. Currently I'm working as a Frontend Developer @Rupifi.
 
-- Building Full Stack React Apps.
-- Frequently writing on [Hashnode](https://bhavika-tibrewal.hashnode.dev/)
-- You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
-- When I'm not coding, I'm reading novels or making digital portraits.
+<p align="center">
+<a href="https://bhavika-tibrewal.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://twitter.com/bhtibrewal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.buymeacoffee.com/bhtibrewalY" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+</p>
+
+- 📱 Building Full Stack React Apps.
+- ✍🏼 Frequently writing on [Hashnode](https://bhavika-tibrewal.hashnode.dev/)
+- 🖥 You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
+- When I'm not coding, I love reading novels 📖 or making digital portraits. 👩🏼‍🎨
 <!-- - 💬Feel free to reach out to me for some interesting talk. -->
 - 📫 You can also email me at [bhtibrewal@gmail.com](https://github.com/bhtibrewal/bhtibrewal)
 
 ### 🔧 Languages & Tools
 
-<p align='left'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='35' width='auto' alt="js">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+<p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48">
+<img src=" https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">
 </p>
+
+Thanks for taking time to visit and read my GitHub profile 💙.
 
 ### &#x1f4c8; GitHub Stats
 
@@ -38,10 +54,6 @@ My name is Bhavika Tibrewal. Currently I'm pursing my BTech from LNMIIT, Jaipur,
 
 [![ Bhavika's Repo](https://github-readme-stats.vercel.app/api/pin/?username=bhtibrewal&repo=Is_Your_Birthday_a_Palidrome&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e) ](https://github.com/bhtibrewal/Is_Your_Birthday_a_Palidrome) -->
 
-## 🔗 &nbsp;**Connect with me**
 
-[![Linked in](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/linkedin.svg)](https://www.linkedin.com/in/bhavika-tibrewal/)
-[![Twitter](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/twitter.svg)](https://twitter.com/bhtibrewal)
 
-Thanks for visiting :heart: 
 
