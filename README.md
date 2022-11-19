@@ -5,6 +5,8 @@
 # Hello Github👋
 My name is Bhavika Tibrewal. Currently I'm working as a Frontend Developer @Rupifi.
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
+
 <p align="center">
 <a href="https://bhavika-tibrewal.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://twitter.com/bhtibrewal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
