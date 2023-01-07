@@ -46,6 +46,8 @@ Thanks for taking time to visit and read my GitHub profile 💙.
 
 ![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&count_private=true&show_icons=true&theme=radical)
 
+[![An image of @bhtibrewal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhtibrewal)](https://holopin.io/@bhtibrewal)
+
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) -->
 
 <!--  -->
