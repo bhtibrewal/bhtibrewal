@@ -25,6 +25,7 @@ My name is Bhavika Tibrewal. Currently I'm working as a Frontend Developer @Rupi
 <p>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48">  
@@ -34,7 +35,7 @@ My name is Bhavika Tibrewal. Currently I'm working as a Frontend Developer @Rupi
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48">
-<img src=" https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48">
 </p>
 
 Thanks for taking time to visit and read my GitHub profile 💙.
