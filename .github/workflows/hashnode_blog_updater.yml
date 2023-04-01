@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: bhtibrewal/blog-post-workflow@main
+      - uses: bhtibrewal/bhtibrewal@main
         with:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://bhavika-tibrewal.hashnode.dev/rss.xml"
