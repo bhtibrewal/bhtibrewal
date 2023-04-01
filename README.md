@@ -40,12 +40,15 @@ My name is Bhavika Tibrewal. Currently I'm working as a Frontend Developer @Rupi
 
 Thanks for taking time to visit and read my GitHub profile 💙.
 
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 ### &#x1f4c8; GitHub Stats
 
 <!--  -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhtibrewal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3) -->
 
-![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&count_private=true&show_icons=true&theme=radical)
+<!-- ![Bhavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhtibrewal&count_private=true&show_icons=true&theme=radical) -->
 
 [![An image of @bhtibrewal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhtibrewal)](https://holopin.io/@bhtibrewal)
 
