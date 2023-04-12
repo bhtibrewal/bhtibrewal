@@ -15,7 +15,7 @@ My name is Bhavika Tibrewal. Currently I'm working as a Frontend Developer @Rupi
 
 - 📱 Building Full Stack React Apps.
 - ✍🏼 Frequently writing on [Hashnode](https://bhavika-tibrewal.hashnode.dev/)
-- 🖥 You can view them on [My Portfolio Website](https://bhavika-developer.netlify.app/)
+- 🖥 You can view them on [My Portfolio Website](https://bhavikatibrewal.netlify.app/)
 - When I'm not coding, I love reading novels 📖 or making digital portraits. 👩🏼‍🎨
 <!-- - 💬Feel free to reach out to me for some interesting talk. -->
 - 📫 You can also email me at [bhtibrewal@gmail.com](https://github.com/bhtibrewal/bhtibrewal)
