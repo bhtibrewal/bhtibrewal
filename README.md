@@ -3,7 +3,7 @@
 <!-- ![Header](https://github.com/bhtibrewal/bhtibrewal/blob/main/images/cover.png) -->
 
 # Hello Developers👋
-My name is [Bhavika Tibrewal](https://bhavikatibrewal.netlify.app/). Currently I'm working as a Frontend Developer @Rupifi.
+My name is [Bhavika Tibrewal](https://bhavikatibrewal.netlify.app/). Currently I'm working as a Frontend Developer @Browserstack.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
 
